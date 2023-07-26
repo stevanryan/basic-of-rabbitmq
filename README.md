@@ -7,12 +7,12 @@ First of all install node modules
 npm install
 ```
 
-Change the directory
+After that, open two terminals and change both directory
 ```
 cd message-broker
 ```
 
-Then open two terminals and simply run:
+Then simply run these commands
 ```
 node consumer.js
 ```
